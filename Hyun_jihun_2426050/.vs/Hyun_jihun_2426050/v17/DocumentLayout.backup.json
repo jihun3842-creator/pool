@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\",
+  "WorkspaceRootPath": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|d:\\hyun_jihun_2426050\u002B04\\hyun_jihun_2426050\\assets\\hammerswing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|d:\\hyun_jihun_2426050\u002B05\\hyun_jihun_2426050\\assets\\hammerswing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\hammerswing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\assets\\hammermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\hammermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\assets\\rotationplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\assets\\rotationplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\rotationplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\assets\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\assets\\hammermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\hammermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\assets\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{710314BB-3B45-DFD7-F1E8-8D8134F1E47C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,62 +34,61 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HammerManger.cs",
-              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\HammerManger.cs",
+              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\HammerManger.cs",
               "RelativeDocumentMoniker": "Assets\\HammerManger.cs",
-              "ToolTip": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\HammerManger.cs",
+              "ToolTip": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\HammerManger.cs",
               "RelativeToolTip": "Assets\\HammerManger.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:40:59.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T03:40:59.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HammerSwing.cs",
-              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\HammerSwing.cs",
+              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\HammerSwing.cs",
               "RelativeDocumentMoniker": "Assets\\HammerSwing.cs",
-              "ToolTip": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\HammerSwing.cs",
+              "ToolTip": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\HammerSwing.cs",
               "RelativeToolTip": "Assets\\HammerSwing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T03:20:21.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RotationPlatform.cs",
-              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\RotationPlatform.cs",
+              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\RotationPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\RotationPlatform.cs",
-              "ToolTip": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\RotationPlatform.cs",
+              "ToolTip": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\RotationPlatform.cs",
               "RelativeToolTip": "Assets\\RotationPlatform.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAxwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T04:17:59.498Z"
+              "WhenOpened": "2025-10-29T04:17:59.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\PlayerController.cs",
+              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
-              "ToolTip": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\PlayerController.cs",
+              "ToolTip": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\PlayerController.cs",
               "RelativeToolTip": "Assets\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T03:35:19.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T03:35:19.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ThirdPersonCamera.cs",
-              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\ThirdPersonCamera.cs",
+              "DocumentMoniker": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\ThirdPersonCamera.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdPersonCamera.cs",
-              "ToolTip": "D:\\Hyun_jihun_2426050\u002B04\\Hyun_jihun_2426050\\Assets\\ThirdPersonCamera.cs",
+              "ToolTip": "D:\\Hyun_jihun_2426050\u002B05\\Hyun_jihun_2426050\\Assets\\ThirdPersonCamera.cs",
               "RelativeToolTip": "Assets\\ThirdPersonCamera.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
